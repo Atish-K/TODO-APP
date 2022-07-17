@@ -1,0 +1,20 @@
+{
+  "name": "TODO-App",
+  "version": "1.0.0",
+  "description": "Using Node JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git remote add origin https://github.com/Atish-K/TODO-APP.git",
+  "author": "Atish Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.4.4",
+    "scripts": "^0.1.0"
+  }
+}
